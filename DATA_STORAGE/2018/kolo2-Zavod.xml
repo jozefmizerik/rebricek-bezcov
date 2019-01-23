@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ResultList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" iofVersion="3.0" status="Complete" creator="ISSZOS" xmlns="http://www.orienteering.org/datastandard/3.0">
+ <Event>
+  <Id type="ISSZOS">1415</Id>
+  <Name>Yeti Zima Cup 2. kolo oblastného rebríčka Západnej oblasti SZOŠ 2018 (Yeti Zima Cup 2. kolo oblastného rebríčka Západnej oblasti SZOŠ 2017 - E1)</Name>
+  <StartTime>
+   <Date>2018-01-28</Date>
+  </StartTime>
+ </Event>
+ <ClassResult>
+  <Class>
+   <Id type="ISSZOS">1612</Id>
+   <Name>M 40- </Name>
+   <ShortName>M 40- </ShortName>
+  </Class>
+  <PersonResult>
+   <Person sex="M">
+    <Id type="ISSZOS">709</Id>
+    <Id type="SVK">SPE7601</Id>
+    <Name>
+     <Family>Spišiak</Family>
+     <Given>Marian</Given>
+    </Name>
+   </Person>
+   <Result>
+    <Time>2063</Time>
+    <Position>1</Position>
+    <Status>OK</Status>
+   </Result>
+  </PersonResult>
+  <PersonResult>
+   <Person sex="M">
+    <Id type="ISSZOS">1778</Id>
+    <Id type="SVK">FBA7704</Id>
+    <Name>
+     <Family>Borský</Family>
+     <Given>Martin</Given>
+    </Name>
+   </Person>
+   <Result>
+    <Time>2081</Time>
+    <Position>2</Position>
+    <Status>OK</Status>
+   </Result>
+  </PersonResult>
+  <PersonResult>
+   <Person sex="M">
+    <Id type="ISSZOS">213</Id>
+    <Id type="SVK">VBA7101</Id>
+    <Name>
+     <Family>Kováč</Family>
+     <Given>Milan</Given>
+    </Name>
+   </Person>
+   <Result>
+    <Time>2135</Time>
+    <Position>3</Position>
+    <Status>OK</Status>
+   </Result>
+  </PersonResult>
+  <PersonResult>
+   <Person>
+    <Id type="SVK">SPA</Id>
+    <Name>
+     <Family>Spakovszky</Family>
+     <Given>Péter</Given>
+    </Name>
+   </Person>
+   <Result>
+    <Time>2175</Time>
+    <Position>4</Position>
+    <Status>OK</Status>
+   </Result>
+  </PersonResult>
+  <PersonResult>
+   <Person>
+    <Id type="SVK">OUT</Id>
+    <Name>
+     <Family>Čierny</Family>
+     <Given>Jozef</Given>
+    </Name>
+   </Person>
+   <Result>
+    <Time>2202</Time>
+    <Position>5</Position>
+    <Status>OK</Status>
+   </Result>
+  </PersonResult>
+  <PersonResult>
+   <Person sex="M">
+    <Id type="ISSZOS">2189</Id>
+    <Id type="SVK">SPE7001</Id>
+    <Name>
+     <Family>Hojko</Family>
+     <Given>Peter</Given>
+    </Name>
+   </Person>
+   <Result>
+    <Time>2296</Time>
+    <Position>6</Position>
+    <Status>OK</Status>
+   </Result>
+  </PersonResult>
+  <PersonResult>
+   <Person sex="M">
+    <Id type="ISSZOS">2325</Id>
+    <Id type="SVK">FBA7402</Id>
+    <Name>
+     <Family>Kotuliak</Family>
+     <Given>Ivan</Given>
+    </Name>
+   </Person>
+   <Result>
+    <Time>2371</Time>
+    <Position>7</Position>
+    <Status>OK</Status>
+   </Result>
+  </PersonResult>
+  <PersonResult>
+   <Person sex="M">
+    <Id type="ISSZOS">2161</Id>
+    <Id type="SVK">SKS7501</Id>
+    <Name>
+     <Family>Vorlíček</Family>
+     <Given>Peter</Given>
+    </Name>
+   </Person>
+   <Result>
+    <Time>2502</Time>
+    <Position>8</Position>
+    <Status>OK</Status>
+   </Result>
+  </PersonResult>
+  <PersonResult>
+   <Person sex="M">
+    <Id type="ISSZOS">10014</Id>
+    <Id type="SVK">SKS7601</Id>
+    <Name>
+     <Family>Brňák</Family>
+     <Given>Štefan</Given>
+    </Name>
+   </Person>
+   <Result>
+    <Time>2626</Time>
+    <Position>9</Position>
+    <Status>OK</Status>
+   </Result>
+  </PersonResult>
+  <PersonResult>
+   <Person sex="M">
+    <Id type="ISSZOS">2070</Id>
+    <Id type="SVK">SKS6901</Id>
+    <Name>
+     <Family>Balogh</Family>
+     <Given>Richard</Given>
+    </Name>
+   </Person>
+   <Result>
+    <Time>2696</Time>
+    <Position>10</Position>
+    <Status>OK</Status>
+   </Result>
+  </PersonResult>
+  <PersonResult>
+   <Person sex="M">
+    <Id type="ISSZOS">2123</Id>
+    <Id type="SVK">SKS66AA</Id>
+    <Name>
+     <Family>Kukurugya</Family>
+     <Given>Emil</Given>
+    </Name>
+   </Person>
+   <Result>
+    <Time>2859</Time>
+    <Position>11</Position>
+    <Status>OK</Status>
+   </Result>
+  </PersonResult>
+  <PersonResult>
+   <Person sex="M">
+    <Id type="ISSZOS">2090</Id>
+    <Id type="SVK">PEZ6401</Id>
+    <Name>
+     <Family>Kučera</Family>
+     <Given>Roman</Given>
+    </Name>
+   </Person>
+   <Result>
+    <Time>3326</Time>
+    <Position>12</Position>
+    <Status>OK</Status>
+   </Result>
+  </PersonResult>
+  <PersonResult>
+   <Person sex="M">
+    <Id type="ISSZOS">2247</Id>
+    <Id type="SVK">FBA7401</Id>
+    <Name>
+     <Family>Paluska</Family>
+     <Given>Jozef</Given>
+    </Name>
+   </Person>
+   <Result>
+    <Time>0</Time>
+    <Status>MissingPunch</Status>
+   </Result>
+  </PersonResult>
+  <PersonResult>
+   <Person sex="M">
+    <Id type="ISSZOS">10083</Id>
+    <Id type="SVK">FBA6901</Id>
+    <Name>
+     <Family>Patassi</Family>
+     <Given>Michal</Given>
+    </Name>
+   </Person>
+   <Result>
+    <Time>0</Time>
+    <Status>MissingPunch</Status>
+   </Result>
+  </PersonResult>
+ </ClassResult>
+</ResultList>

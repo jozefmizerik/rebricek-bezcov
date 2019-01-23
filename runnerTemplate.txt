@@ -1,0 +1,8 @@
+			<tr>
+				<td>@poradie</td>
+				<td>@zmena</td>
+				<td>@meno</td>
+				<td>@priezvisko</td>
+				<td>@id</td>
+@bodyKol				<td>@spolu</td>
+			</tr>

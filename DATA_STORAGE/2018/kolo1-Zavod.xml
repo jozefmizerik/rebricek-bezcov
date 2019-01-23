@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ResultList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" iofVersion="3.0" status="Complete" creator="ISSZOS" xmlns="http://www.orienteering.org/datastandard/3.0">
+ <Event>
+  <Id type="ISSZOS">120</Id>
+  <Name>Trojkrálové parkové preteky 2018 (Trojkrálové parkové preteky 2018)</Name>
+  <StartTime>
+   <Date>2018-01-06</Date>
+  </StartTime>
+ </Event><ClassResult>
+  <Class>
+   <Id type="ISSZOS">1586</Id>
+   <Name>M 40- </Name>
+   <ShortName>M 40- </ShortName>
+  </Class>
+  <PersonResult>
+   <Person>
+    <Id type="SVK"></Id>
+    <Name>
+     <Family>Kroupa</Family>
+     <Given>Günther</Given>
+    </Name>
+   </Person>
+   <Result>
+    <Time>1899</Time>
+    <Position>1</Position>
+    <Status>OK</Status>
+   </Result>
+  </PersonResult>
+  <PersonResult>
+   <Person sex="M">
+    <Id type="ISSZOS">202</Id>
+    <Id type="SVK">VBA6601</Id>
+    <Name>
+     <Family>Navrátil</Family>
+     <Given>Rostislav</Given>
+    </Name>
+   </Person>
+   <Result>
+    <Time>1917</Time>
+    <Position>2</Position>
+    <Status>OK</Status>
+   </Result>
+  </PersonResult>
+  <PersonResult>
+   <Person sex="M">
+    <Id type="ISSZOS">213</Id>
+    <Id type="SVK">VBA7101</Id>
+    <Name>
+     <Family>Kovác</Family>
+     <Given>Milan</Given>
+    </Name>
+   </Person>
+   <Result>
+    <Time>2109</Time>
+    <Position>3</Position>
+    <Status>OK</Status>
+   </Result>
+  </PersonResult>
+  <PersonResult>
+   <Person sex="M">
+    <Id type="ISSZOS">682</Id>
+    <Id type="SVK">CNR7201</Id>
+    <Name>
+     <Family>Bednárik</Family>
+     <Given>Martin</Given>
+    </Name>
+   </Person>
+   <Result>
+    <Time>2178</Time>
+    <Position>4</Position>
+    <Status>OK</Status>
+   </Result>
+  </PersonResult>
+  <PersonResult>
+   <Person>
+    <Id type="SVK"></Id>
+    <Name>
+     <Family>Cierny</Family>
+     <Given>Jozef</Given>
+    </Name>
+   </Person>
+   <Result>
+    <Time>2262</Time>
+    <Position>5</Position>
+    <Status>OK</Status>
+   </Result>
+  </PersonResult>
+  <PersonResult>
+   <Person sex="M">
+    <Id type="ISSZOS">2161</Id>
+    <Id type="SVK">SKS7501</Id>
+    <Name>
+     <Family>Vorlícek</Family>
+     <Given>Peter</Given>
+    </Name>
+   </Person>
+   <Result>
+    <Time>2576</Time>
+    <Position>6</Position>
+    <Status>OK</Status>
+   </Result>
+  </PersonResult>
+  <PersonResult>
+   <Person sex="M">
+    <Id type="ISSZOS">2070</Id>
+    <Id type="SVK">SKS6901</Id>
+    <Name>
+     <Family>Balogh</Family>
+     <Given>Richard</Given>
+    </Name>
+   </Person>
+   <Result>
+    <Time>2614</Time>
+    <Position>7</Position>
+    <Status>OK</Status>
+   </Result>
+  </PersonResult>
+  <PersonResult>
+   <Person sex="M">
+    <Id type="ISSZOS">178</Id>
+    <Id type="SVK">PEZ7303</Id>
+    <Name>
+     <Family>Féder</Family>
+     <Given>Medard</Given>
+    </Name>
+   </Person>
+   <Result>
+    <Time>2625</Time>
+    <Position>8</Position>
+    <Status>OK</Status>
+   </Result>
+  </PersonResult>
+  <PersonResult>
+   <Person sex="M">
+    <Id type="ISSZOS">10083</Id>
+    <Id type="SVK">FBA6901</Id>
+    <Name>
+     <Family>Patassi</Family>
+     <Given>Michal</Given>
+    </Name>
+   </Person>
+   <Result>
+    <Time>2662</Time>
+    <Position>9</Position>
+    <Status>OK</Status>
+   </Result>
+  </PersonResult>
+  <PersonResult>
+   <Person sex="M">
+    <Id type="ISSZOS">654</Id>
+    <Id type="SVK">RBA5801</Id>
+    <Name>
+     <Family>Formanko</Family>
+     <Given>Dušan</Given>
+    </Name>
+   </Person>
+   <Result>
+    <Time>2737</Time>
+    <Position>10</Position>
+    <Status>OK</Status>
+   </Result>
+  </PersonResult>
+  <PersonResult>
+   <Person sex="M">
+    <Id type="ISSZOS">2312</Id>
+    <Id type="SVK">FBA7102</Id>
+    <Name>
+     <Family>Kasza</Family>
+     <Given>Ladislav</Given>
+    </Name>
+   </Person>
+   <Result>
+    <Time>2967</Time>
+    <Position>11</Position>
+    <Status>OK</Status>
+   </Result>
+  </PersonResult>
+  <PersonResult>
+   <Person sex="M">
+    <Id type="ISSZOS">2360</Id>
+    <Id type="SVK">RBA7001</Id>
+    <Name>
+     <Family>Paško</Family>
+     <Given>Marko</Given>
+    </Name>
+   </Person>
+   <Result>
+    <Time>3533</Time>
+    <Position>12</Position>
+    <Status>OK</Status>
+   </Result>
+  </PersonResult>
+  <PersonResult>
+   <Person sex="M">
+    <Id type="ISSZOS">2090</Id>
+    <Id type="SVK">PEZ6401</Id>
+    <Name>
+     <Family>Kucera</Family>
+     <Given>Roman</Given>
+    </Name>
+   </Person>
+   <Result>
+    <Time>3860</Time>
+    <Position>13</Position>
+    <Status>OK</Status>
+   </Result>
+  </PersonResult>
+ </ClassResult>
+</ResultList>
